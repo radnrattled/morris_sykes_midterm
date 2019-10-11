@@ -1,3 +1,3 @@
-# morris_sykes_midterm
+# Megan and Claires Mid term Lab
 
-## Don't worry we got this
+## This is our mid term lab. 

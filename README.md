@@ -1,3 +1,5 @@
-# morris_sykes_midterm
+# Megan and Claires Mid term Lab
 
-## Keeping this appropriate for school purposes
+## This is our mid term lab. 
+
+
